@@ -1,5 +1,5 @@
 {
-  "name": "vue-awesome-swiper",
+  "name": "bastidest-vue-awesome-swiper",
   "version": "2.5.4",
   "description": "Swiper component for Vue.js(1.x ~ 2.x)",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/surmon-china/vue-awesome-swiper.git"
+    "url": "https://github.com/bastidest/vue-awesome-swiper.git"
   },
   "keywords": [
     "vue-awesome-swiper",
@@ -28,9 +28,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/surmon-china/vue-awesome-swiper/issues"
+    "url": "https://github.com/bastidest/vue-awesome-swiper/issues"
   },
-  "homepage": "https://github.com/surmon-china/vue-awesome-swiper#readme",
+  "homepage": "https://github.com/bastidest/vue-awesome-swiper#readme",
   "browserify-css": {
     "autoInject": true,
     "minify": true,
